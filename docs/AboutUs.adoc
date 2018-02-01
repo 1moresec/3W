@@ -49,7 +49,7 @@ Responsibilities: Dev Ops + Threading
 
 === Cui Xiaohan
 image::Cuixiaohan.png[width="150", align="left"]
-{empty}[https://github.com/1moresec[github]] [<<johndoe#, portfolio>>]
+{empty}[https://github.com/1moresec[github]] [<<CuiXiaohan#, portfolio>>]
 
 Role: Developer +
 Responsibilities: UI
